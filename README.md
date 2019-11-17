@@ -1,5 +1,9 @@
 # EIP4
+
+
 Assignment 1:
+### MNIST model execution score - 99.23%
+
 ### Convolution
 Convolution is a abstract way of representing features of image
 
